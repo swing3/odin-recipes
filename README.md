@@ -1,1 +1,1 @@
-# odin-recipes
+This is a readme file created through The Odin Project as part of teh Foundations Recipes course, and introduction to Git, HTML, and CSS.
